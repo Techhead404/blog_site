@@ -7,7 +7,6 @@ const { result } = require('lodash');
 const { redirect, render } = require('express/lib/response');
 const dotenv = require('dotenv');
 
-const bcrypt = require('bcrypt')
 
 const app = express();
 

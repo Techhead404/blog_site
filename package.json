@@ -1,4 +1,5 @@
 {
+  "homepage": "testbenchhacker.com",
   "name": "blog_site",
   "version": "1.0.0",
   "description": "",
@@ -18,7 +19,6 @@
     "express-flash": "^0.0.2",
     "express-openid-connect": "^2.7.1",
     "express-session": "^1.17.2",
-    "joi": "^17.6.0",
     "lodash": "^4.17.21",
     "mongoose": "^6.2.0",
     "morgan": "^1.10.0",
